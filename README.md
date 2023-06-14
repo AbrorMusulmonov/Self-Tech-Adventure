@@ -1,2 +1,7 @@
 # Virtual Dars 
-.NET and C sharp
+.NET 
+CSharp or C#
+Farkhod Dadajonov Tutorials
+http://t.me/virtualdars
+YouTube: @virtualdars
+
