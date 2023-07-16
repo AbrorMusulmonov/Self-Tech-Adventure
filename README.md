@@ -1,7 +1,5 @@
-# Virtual Dars 
+# Self-Tech-Adventure
 .NET | 
 CSharp or C# |
-Farkhod Dadajonov Tutorials |
-http://t.me/virtualdars |
-YouTube: @virtualdars
+I am writing code in this repository about self-study knowledge. It will be updated.
 
